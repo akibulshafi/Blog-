@@ -1,1 +1,1 @@
-# Blog-
+After learning some basic HTML & CSS, I was trying to perfect those languages! So I found this site "Frontend Mentor" where you can get project template based on your preference. This simple Blog site is one of their designs which I coded!
